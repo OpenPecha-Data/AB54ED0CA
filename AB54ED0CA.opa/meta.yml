@@ -1,0 +1,19 @@
+id: AB54ED0CA
+title: Brief Offering Prayer to Za Rāhula
+type: translation
+pechas:
+- I1E88844F
+- IEB8B4FE7
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:06:25.398623
+  last_modified_at: 2023-01-04 13:06:25.398629
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I1E88844F/1CFD: '5357'
+  IEB8B4FE7/966F: '5357'
